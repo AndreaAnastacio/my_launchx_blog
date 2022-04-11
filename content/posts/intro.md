@@ -9,5 +9,5 @@ La cultura profesional del desarrollo de Software  se basa en:
 - Aprendizaje 
 - Paciencia
 - Dedicación
-- Imaginación
+-Imaginación
 
